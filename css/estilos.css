@@ -29,7 +29,7 @@ body {
 }
 
 a {
-  color: #EF0004;
+  color:#D6A49F;
 }
 
 button,
@@ -72,7 +72,7 @@ textarea {
   display: inline-flex;
   align-items: center;
   gap: 0.7rem;
-  color:#EF0110;
+  color:#D6A49F;
   font-weight: 900;
   text-decoration: none;
   letter-spacing: -0.02em;
