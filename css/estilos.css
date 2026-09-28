@@ -72,16 +72,16 @@ textarea {
   display: inline-flex;
   align-items: center;
   gap: 0.7rem;
-  color: var(--navy);
-  font-weight: 800;
+  color:#EF0110;
+  font-weight: 900;
   text-decoration: none;
   letter-spacing: -0.02em;
 }
 
 .brand-mark {
   display: grid;
-  width: 2.35rem;
-  height: 2.35rem;
+  width: 2rem;
+  height: 2rem;
   place-items: center;
   background: var(--navy);
   border-radius: 0.8rem 0.8rem 0.8rem 0.25rem;
@@ -94,7 +94,7 @@ textarea {
 }
 
 .main-nav a {
-  color: var(--navy);
+  color:#E2EF4E;
   font-weight: 700;
   text-decoration: none;
 }
