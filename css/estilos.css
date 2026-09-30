@@ -45,7 +45,7 @@ textarea {
   z-index: 100;
   padding: 0.65rem 0.9rem;
   background: white;
-  color: var(--navy);
+  color: #E5CFA5;
   border-radius: 0.5rem;
   transform: translateY(-160%);
 }
